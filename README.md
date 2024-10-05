@@ -1,1 +1,1 @@
-# Kidney-Disease-Detection-using-Deep-learning-using-
+# Kidney-Disease-Detection-using-Deep-learning
